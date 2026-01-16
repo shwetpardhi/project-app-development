@@ -1,6 +1,6 @@
 import svgPaths from "./svg-4w5w5gj2hp";
 
-import imgRectangle11 from "../assets/rectangle11.png";
+import imgRectangle11 from "../src/assets/6d999d2443b6ae0ad97fd4be1da685b8157cd047.png";
 import imgPexelsPhotoByAndreaPiacquadio from "../assets/andrea.png";
 import imgImage4 from "../assets/image4.png";
 import imgImage5 from "../assets/image5.png";
