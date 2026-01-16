@@ -1,14 +1,14 @@
 import svgPaths from "./svg-4w5w5gj2hp";
 
-import imgRectangle11 from "../assets/6d999d2443b6ae0ad97fd4be1da685b8157cd047.png";
-import imgPexelsPhotoByAndreaPiacquadio from "../assets/ee861a9d0572ca7a13a963b266418b7612336b7f.png";
-import imgImage4 from "../assets/e8776fe148efa34a95f96a31a10335788da8955a.png";
-import imgImage5 from "../assets/cf6d5ba6cd6512a5bf998febcf101b68f11336d4.png";
+import imgRectangle11 from "../assets/ee861a9d0572ca7a13a963b266418b7612336b7f.png";
+import imgPexelsPhotoByAndreaPiacquadio from "../assets/e8776fe148efa34a95f96a31a10335788da8955a.png";
+import imgImage4 from "../assets/cf6d5ba6cd6512a5bf998febcf101b68f11336d4.png";
+import imgImage5 from "../assets/c4701780c6a33ab5ff0dc2da3641196908b22afa.png";
 import imgHandWave from "../assets/a164e596c3c37ded5d679d7c72eae1c597d393cb.png";
-import imgDesign1 from "../assets/c4701780c6a33ab5ff0dc2da3641196908b22afa.png";
-import imgBlue from "../assets/91a87e77e6e75f676caf9ca74e36779a4047e4ae.png";
-import imgDesign2 from "../assets/8bd31b71a379644a52221930303daba4b56c660f.png";
-import imgDesign3 from "../assets/70d1f8da302fa5c8d9e1fea0fe2e2f72c1f9be9a.png";
+import imgDesign1 from "../assets/91a87e77e6e75f676caf9ca74e36779a4047e4ae.png";
+import imgBlue from "../assets/8bd31b71a379644a52221930303daba4b56c660f.png";
+import imgDesign2 from "../assets/70d1f8da302fa5c8d9e1fea0fe2e2f72c1f9be9a.png";
+import imgDesign3 from "../assets/6d999d2443b6ae0ad97fd4be1da685b8157cd047.png";
 
 import { imgImage3, imgDesign, imgRectangle77 } from "./svg-ficuw";
 
