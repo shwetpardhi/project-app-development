@@ -1,4 +1,5 @@
-import Frame72 from "@/imports/Frame74";
+// Change line 1 from "@/imports/Frame74" to:
+import Frame72 from "../imports/Frame74";
 
 export default function App() {
   return (
