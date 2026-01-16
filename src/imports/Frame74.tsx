@@ -1,6 +1,6 @@
 import svgPaths from "./svg-4w5w5gj2hp";
 
-import imgRectangle11 from "../src/assets/6d999d2443b6ae0ad97fd4be1da685b8157cd047.png";
+import imgRectangle11 from "../assets/6d999d2443b6ae0ad97fd4be1da685b8157cd047.png";
 import imgPexelsPhotoByAndreaPiacquadio from "../assets/ee861a9d0572ca7a13a963b266418b7612336b7f.png";
 import imgImage4 from "../assets/e8776fe148efa34a95f96a31a10335788da8955a.png";
 import imgImage5 from "../assets/cf6d5ba6cd6512a5bf998febcf101b68f11336d4.png";
