@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-// Use ./ instead of @/ to point to the current folder
+// Use ./app/App because App.tsx is inside the 'app' folder
 import App from './app/App'; 
 import './styles/index.css';
 
