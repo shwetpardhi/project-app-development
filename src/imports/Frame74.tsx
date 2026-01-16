@@ -1,3 +1,4 @@
+import imgHttpsLottiefilesComAnimationsHandWaveAnimationY3I4Nm08Ts from "../assets/a164e596c3c37ded5d679d7c72eae1c597d393cb.png";
 import svgPaths from "./svg-4w5w5gj2hp";
 
 import imgRectangle11 from "../assets/ee861a9d0572ca7a13a963b266418b7612336b7f.png";
