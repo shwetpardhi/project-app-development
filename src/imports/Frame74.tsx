@@ -1,4 +1,4 @@
-import svgPaths from "./svg-4w5w5gj2hp";
+import svgPaths from "../svg-4w5w5gj2hp";
 
 import imgRectangle11 from "../assets/rectangle11.png";
 import imgPexelsPhotoByAndreaPiacquadio from "../assets/andrea.png";
