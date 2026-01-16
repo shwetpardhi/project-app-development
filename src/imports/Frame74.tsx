@@ -4,7 +4,7 @@ import imgRectangle11 from "../src/assets/6d999d2443b6ae0ad97fd4be1da685b8157cd0
 import imgPexelsPhotoByAndreaPiacquadio from "../assets/andrea.png";
 import imgImage4 from "../assets/image4.png";
 import imgImage5 from "../assets/image5.png";
-import imgHandWave from "../assets/handwave.png";
+import imgHandWave from "../assets/a164e596c3c37ded5d679d7c72eae1c597d393cb.png";
 import imgDesign1 from "../assets/design1.png";
 import imgBlue from "../assets/blue.png";
 import imgDesign2 from "../assets/design2.png";
